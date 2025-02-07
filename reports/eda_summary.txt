@@ -1,0 +1,51 @@
+=== Exploratory Data Analysis (EDA) Report ===
+
+Fraud vs Non-Fraud Transactions (E-Commerce):
+class
+0    136961
+1     14151
+Percentage:
+class
+0    90.635423
+1     9.364577
+
+Fraud vs Non-Fraud Transactions (Credit Card):
+Class
+0    283253
+1       473
+Percentage:
+Class
+0    99.83329
+1     0.16671
+
+Transaction Amount Statistics by Fraud Class (Credit Card):
+          count        mean         std  min   25%    50%     75%       max
+Class                                                                      
+0      283253.0   88.413575  250.379023  0.0  5.67  22.00   77.46  25691.16
+1         473.0  123.871860  260.211041  0.0  1.00   9.82  105.89   2125.87
+
+Purchase Value Statistics by Fraud Class (E-Commerce):
+          count       mean        std  min   25%   50%   75%    max
+class                                                              
+0      136961.0  36.929418  18.315064  9.0  22.0  35.0  49.0  154.0
+1       14151.0  36.993004  18.397654  9.0  22.0  35.0  49.0  111.0
+
+
+Purchase Value Statistics by Fraud Class (E-Commerce):
+          count       mean        std  min   25%   50%   75%    max
+class                                                              
+0      136961.0  36.929418  18.315064  9.0  22.0  35.0  49.0  154.0
+1       14151.0  36.993004  18.397654  9.0  22.0  35.0  49.0  111.0
+
+Age Distribution by Fraud Class (E-Commerce):
+          count       mean       std   min   25%   50%   75%   max
+class                                                             
+0      136961.0  33.122356  8.622678  18.0  27.0  33.0  39.0  76.0
+1       14151.0  33.318281  8.568001  18.0  27.0  33.0  39.0  68.0
+
+Fraud Rate by Traffic Source:
+source
+Ads       0.092066
+Direct    0.105370
+SEO       0.089285
+
