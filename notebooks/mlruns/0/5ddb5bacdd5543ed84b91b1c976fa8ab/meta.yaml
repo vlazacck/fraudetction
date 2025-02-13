@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/Videos/fraudDetection1/notebooks/mlruns/0/5ddb5bacdd5543ed84b91b1c976fa8ab/artifacts
+end_time: 1739485653785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ddb5bacdd5543ed84b91b1c976fa8ab
+run_name: Random Forest Final
+run_uuid: 5ddb5bacdd5543ed84b91b1c976fa8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739485616495
+status: 3
+tags: []
+user_id: Blackie

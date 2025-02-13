@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739487333764
+current_stage: None
+description: null
+last_updated_timestamp: 1739487333764
+name: Fraud Detection Random Forest
+run_id: 3104bc00c34f437184582f6f6529faa7
+run_link: null
+source: file:///c:/Users/Hp/Videos/fraudDetection1/notebooks/mlruns/328285676102734024/3104bc00c34f437184582f6f6529faa7/artifacts/random_forest_restored_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Hp/Videos/fraudDetection1/notebooks/mlruns/328285676102734024/3104bc00c34f437184582f6f6529faa7/artifacts/random_forest_restored_model
+user_id: null
+version: 1
